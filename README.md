@@ -3,6 +3,8 @@ js4424 Meditation_03
 
 Max/MSP/Jitter meditation (#03)
 
+Use it in presentation mode.
+
 The prompt was an asymptotic equation generator. I created a MIDI sequencer where each note triggers a visual response with a parameterized decay time. Each MIDI note controls the location of a 3D gridshape and will shift it from a sphere to a cube.
 
 I might keep developing this patch to use more interesting sounds and customized shapes that incorporate Paul Bourke's equations as inspiration.
