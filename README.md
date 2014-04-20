@@ -1,4 +1,4 @@
-meditationA
+js4424 Meditation_03
 ===========
 
 Max/MSP/Jitter meditation (#03)
